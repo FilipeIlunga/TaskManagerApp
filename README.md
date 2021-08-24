@@ -1,8 +1,12 @@
 # Flutter Task Manager App
 
-Splash Screen                   
-:-------------------------:
-![](https://github.com/FilipeIlunga/TaskManagerApp/blob/master/ScreenShot/SplashScreen.png)|
+<div>
+  Splash Screen                   
+ <img height="913em" width = "480" src="https://github.com/FilipeIlunga/TaskManagerApp/blob/master/ScreenShot/SplashScreen.png"/>  
+</div>
+       
+
+
 
  Dark HomePage                 |   Light HomePage        
 :-------------------------:|:-------------------------:
