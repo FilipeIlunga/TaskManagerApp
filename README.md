@@ -1,7 +1,9 @@
 # Flutter Task Manager App
 
 <div>
+  <div>
   Splash Screen                   
+</div>               
  <img height="913em" width = "480" src="https://github.com/FilipeIlunga/TaskManagerApp/blob/master/ScreenShot/SplashScreen.png"/>  
 </div>
        
